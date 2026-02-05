@@ -48,3 +48,12 @@ git push
 
 
 After the push completes, **open your repository on GitHub in a web browser and confirm that the PDF file appears in the repository**. If you do not see the file on GitHub, your work has not been successfully pushed. Reach out to a TA or the Instructor for help.
+
+### Grading Rubric (15 points)
+
+| Category | Poosible Points | Description |
+|--------|--------|-------------|
+| Syntax | 3 | Correct UML notation, visibility, and readable layout |
+| Classes | 6 | Classes include appropriate attributes and methods with correct visibility, data types for attributes, and parameter and return types for methods |
+| Relationships | 4 | Relationships between classes are correctly represented, including ownership and multiplicity |
+| Professionalism | 2 | The diagram is rendered clean, professional, and easy to read |
